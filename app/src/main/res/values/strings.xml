@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearnMVVMFormData</string>
+    <string name="add">Submit</string>
+    <string name="next_act">StateFlowExampleActivity</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="address">Address</string>
+    <string name="mobile">Mobile</string>
+    <string name="result">Result</string>
+</resources>
